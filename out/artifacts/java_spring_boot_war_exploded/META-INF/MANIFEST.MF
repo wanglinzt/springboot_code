@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 汪林
+Build-Jdk: 1.8.0_121
+Implementation-Title: java_spring_boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.wl
+Main-Class: ${start-class}
+
