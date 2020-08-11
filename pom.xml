@@ -40,6 +40,11 @@
                 </exclusion>
             </exclusions>
         </dependency>
+        <!--热部署依赖-->
+        <!--<dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+        </dependency>-->
     </dependencies>
 
     <!--导入插件-->
